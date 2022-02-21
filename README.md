@@ -11,9 +11,9 @@ patterns.
 
 ## Results: 
 Provide a bulleted list with three major points from the two analysis deliverables.
-•	The Minimum Temp(s) between the two months are June (64) & Dec (56) the variance in the temp may seem less suitable for the shop to operate at high compacity of probability.
-•	The Average Temp(s) between the two months are June (75) & Dec (71) a smaller variance in the temp which means a higher success rate on average for returns.
-•	The Maximum Temp(s) between the two months are June (85) & Dec (83) would be the ideal weather for the max success rate and above average returns.
+*The Minimum Temp(s) between the two months are June (64) & Dec (56) the variance in the temp may seem less suitable for the shop to operate at high compacity of probability.
+*The Average Temp(s) between the two months are June (75) & Dec (71) a smaller variance in the temp which means a higher success rate on average for returns.
+*The Maximum Temp(s) between the two months are June (85) & Dec (83) would be the ideal weather for the max success rate and above average returns.
 Let’s keep our fingers crossed for above Average weather.
 
 ![image](https://user-images.githubusercontent.com/94503395/155038759-83fc8f97-d95c-4711-99e6-c46e7083c6ec.png)
