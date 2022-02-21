@@ -25,4 +25,5 @@ Let’s keep our fingers crossed for above Average weather.
 
 
 ## Summary: 
-Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
+To fully capture the Picture of the Success rate of opening a Surf & Ice cream shop, we must do a more thorough assessment of the area in which the shop wants to open.  More
+queries need to be run to decide in what area would the new location be built for higher rate of success.
