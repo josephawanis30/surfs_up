@@ -1,7 +1,13 @@
 # surfs_up
 
 ## Overview of the analysis:
-Explain the purpose of this analysis.
+
+overview:
+As we look to open a Surf & Ice cream shop in Hawaii, we will be focusing on the
+months of June & December.  The focus is to project the weather temperatures during 
+those months to assess if the shop will operate with success during the different temperature 
+patterns.
+
 
 ## Results: 
 Provide a bulleted list with three major points from the two analysis deliverables.
